@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+          <article class="post featured">
+            <header class="major">
+							<h1><a href="#">Research and Publications</a></h1>
+              <p>My current research focuses on the history of American popular entertainment.
+							</p>
+            </header>
+						<p>
+							I am interested in issues of legibility, reception, and aesthetic agency and how these specifically relate to racial identity. How did past audiences decode the racial performances they saw on popular theatre stages? How did they relate them to their own culture and society? And how did the artists create these racial images? What were they replicating, defying, or modifying? My dissertation research explores these questions in the context of vaudeville, the first nation-wide American entertainment industry that gathered international artists and socially, economically, and ethnically diverse audiences.
+
+						</p>
+						<p>
+						I am a trained ballet dancer and since starting my PhD at Northwestern, I have been complementing my practice with theoretical and historical explorations in the field of dance studies. Researching dance has allowed me to delve deeper into questions of racial legibility. Dancing bodies oftentimes communicate racial meanings more directly than any dramatic piece or staging device. I translate this awareness into my dissertation work by paying particular attention to the way bodies move, pose, and stage themselves for an audience.
+
+						</p>
+
+						<p>
+						 In a change of focus from my area of specialization to discipline-oriented research, most recently I served as Associate Editor for <i>Three Loves for Three Oranges: Gozzi, Meyerhold, Prokofiev</i>. This rich collection of essays is the first book to reveal the intertwined legacy of Sergei Prokofiev’s 1921 opera <i>Love for Three Oranges</i>, the 1913 play by the same title adapted by Vsevolod Meyerhold from Carlo Gozzi, and Gozzi’s 1761 original theatrical fairy tale.
+						</p>
+
+						Click on the links below to learn more about my research.
+
+          </article>
+					<!-- Post -->
+					<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<span>{{ post.journal }}</span>
+								</header>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" />
+									<p class="image blogfigcaption">{{post.caption}}
+								</p>
+							</a>
+								<p>{{ post.excerpt }}</p>
+								<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Read More</a></li>
+								</ul>
+							</article>
+							{% if mod3 == 0 %}
+
+							{% endif %}
+						{% endfor %}
+
+					</section>
+
+					</div>
+
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>
