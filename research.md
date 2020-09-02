@@ -12,4 +12,5 @@ Work on these invariants was pioneered by Igusa and Waldhausen using intricate m
 In my thesis I prove a conjecture of Igusa and Goette which states that after rationalizing and stabilizing the dimension there are no exotic smoothings of bundles with even dimensional closed fibers. In practice this means proving a vanishing theorem for a refinement of the higher smooth torsion invariant. This statement is in stark contrast to the odd dimensional setting in which the same authors construct all possible exotic bundles on a given smooth bundle.  
 
 A current unpublished draft of this work can be found here: 
+
 [Fiberwise Poincar&eacute;–Hopf Theory and Exotic Smooth Structures on Fiber Bundles](https://www.dropbox.com/s/sm0iypgas82c0gy/Jain%2C%20Yajit_Fiberwise_Poincare_Hopf_Theory_and_Exotic_Smooth_Structures_on_Fiber_Bundles.pdf?dl=0)
