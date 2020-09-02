@@ -34,3 +34,5 @@ sidebar_home_link:  false
                                 # to enable a separate blog link.
 
 sidebar_image:   /images/headshot.jpg
+
+google_analytics: UA-177077280-1
