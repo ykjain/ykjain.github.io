@@ -14,4 +14,4 @@ In my thesis I prove a conjecture of Goette and Igusa which states that after ra
 A current preprint of this work can be found here : 
 
 
-[Fiberwise Poincar&eacute;–Hopf Theory and Exotic Smooth Structures on Fiber Bundles (Last Updated: Jan 1, 2021)](Jain_Yajit_Fiberwise_Poincare_Hopf_Theory_and_Exotic_Smooth_Structures_on_Fiber_Bundles.pdf){:target="_blank"}
+[Fiberwise Poincar&eacute;–Hopf Theory and Exotic Smooth Structures on Fiber Bundles (Last Updated: Jan 1, 2021)](Jain_Yajit_Fiberwise_Poincare_Hopf_Theory_and_Exotic_Smooth_Structures_on_Fiber_Bundles_Dec_2020.pdf){:target="_blank"}
