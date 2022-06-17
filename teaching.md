@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-While in graduate school I have served as a teaching assistant for the following courses. This entails leading weekly discussion sections, holding office hours, and grading homework.
+While in graduate school I served as a teaching assistant for the following courses. 
 
 Winter 2020<br> 336-1: Introduction to the Theory of Numbers<br>344-1: Introduction to Topology
 
