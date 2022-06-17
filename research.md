@@ -11,3 +11,6 @@ Work on these invariants was pioneered by Igusa and Waldhausen using intricate m
 
 In my thesis I prove a conjecture of Goette and Igusa which states that after rationalizing and stabilizing the dimension there are no exotic smoothings of bundles with even dimensional closed fibers. In practice this means proving a vanishing theorem for a refinement of the higher smooth torsion invariant. This statement is in stark contrast to the odd dimensional setting in which the same authors construct all possible exotic bundles on a given smooth bundle.  
 
+##Papers
+
+<a href="https://arxiv.org/abs/2111.03188">Duality and vanishing theorems for topologically trivial families of smooth h-cobordisms (arXiv:2111.03188)</a>
