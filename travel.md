@@ -8,13 +8,12 @@ sidebar_sort_order: 4
 Here is a list of previous and upcoming travel.
 
 <br>
-~~2020 Young Topologists Meeting - University of Copenhagen~~
 
-~~2020 Talbot Workshop: Ambidexterity in Chromatic Homotopy Theory, Nagodoches, TX~~
+2022 Higher algebraic structures in algebra, topology and geometry,  Institut Mittag-Leffler
 
-~~2020  (∞, n)-categories, factorization homology, and algebraic K-theory, MSRI~~
+2020 Talbot Workshop: Ambidexterity in Chromatic Homotopy Theory, Plymouth Massachusetts (postponed to 2021)
 
-~~2020  Tensor categories and topological quantum field theories, MSRI~~
+2021 Viva Talbot!, Online
 
 2020 Introductory Workshop: Higher Categories and Categorification, MSRI
 
