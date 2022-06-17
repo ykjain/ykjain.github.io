@@ -30,12 +30,3 @@ Fall 2016<br> 220-0: Differential Calculus of One Variable Functions (two sectio
 
 
 
-
-
-<br>
-
-## Mentorship
-
-I have mentored several advanced undergraduate students serving as TA's in the math department.
-
-I founded the Directed Reading Program at Northwestern with Prof. Ezra Getzler and currently serve as an organizer.
