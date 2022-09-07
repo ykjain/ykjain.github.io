@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talbot Workshop
-sidebar_link: true
+sidebar_link: false
 sidebar_sort_order: 3
 ---
 
