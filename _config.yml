@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yajit Jain
 tagline:          'A Jekyll theme'
-description:      'yajit_jain [at] brown [dot] edu'
+description:      'yajit@broadinstitute.org'
              
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
