@@ -6,14 +6,11 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-In Spring 2023 I was Instructor of Record for the following courses at Brown University:
+I was Instructor of Record for the following courses at Brown University:
 
-<br> Math 1620: Mathematical Statistics<br> Math 0520: Linear Algebra 
-
-<br>
+Spring 2023<br> Math 1620: Mathematical Statistics<br> Math 0520: Linear Algebra 
 
 <br>
-
 
 While in graduate school I served as a teaching assistant for the following courses. 
 
