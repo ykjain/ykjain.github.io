@@ -9,9 +9,11 @@ Here is a list of previous and upcoming travel.
 
 <br>
 
+2023 NEURIPS, New Orleans, Louisiana
+
 2022 Higher algebraic structures in algebra, topology and geometry,  Institut Mittag-Leffler
 
-2020 Talbot Workshop: Ambidexterity in Chromatic Homotopy Theory, Plymouth Massachusetts (postponed to 2021)
+2020 Talbot Workshop: Ambidexterity in Chromatic Homotopy Theory, Plymouth, Massachusetts (postponed to 2021)
 
 2021 Viva Talbot!, Online
 
